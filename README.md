@@ -1,1 +1,1 @@
-# app-chat-realtime
+App chat realtime using ReactJS and Firebase
